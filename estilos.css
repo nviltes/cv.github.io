@@ -1,0 +1,48 @@
+  /*fondo*/
+  body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: rgb(11, 71, 11);
+    text-align: center;
+  }
+
+  h2 {
+    color: #222222;
+    font-variant: unset;
+  }
+  .h {
+    color: aqua;
+    text-align: center;
+    font-size: xx-large;
+  }
+
+  aside {
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-style: italic;
+    background-color: #5b8180;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 19px;
+    text-align: left;
+  }
+  p.b {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  div {
+    border: 1px solid gray;
+    padding: 8px;}
+
+  .p {
+    text-align: center;
+    color: blue;
+    font-size: 50px
+  }
+  
